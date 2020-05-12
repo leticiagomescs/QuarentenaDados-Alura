@@ -8,13 +8,6 @@
   Quarentena Dados - Alura
 </h1>
 
-> A repo to store my walkthrough through the CodeNation's program, AceleraDev Data Science
-
-| Role                 | Responsibility         | Full name                | e-mail       |
-| -----                | ----------------       | -----------              | ---------    |
-| Data Scientist       | Author                 | [`Letícia Gomes da Costa e Silva`]            | [`ms.asilvas1@gmail.com`] |
-
-
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leticiagomescs/QuarentenaDados-Alura">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/leticiagomescs/QuarentenaDados-Alura">
